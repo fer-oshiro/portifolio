@@ -1,0 +1,22 @@
+:root {
+  --cor-p1: #d1afea;
+  --cor-p2: #b795d2;
+  --cor-p3: #a17ebb;
+
+  --cor-c1: #f5f5f5;
+  --cor-c2: #f0f0f0;
+  --cor-c3: #e0e0e0;
+  --cor-c4: #cccccc;
+  --cor-c5: #b8b8b8;
+  --cor-c6: #a3a3a3;
+  --cor-c7: #8f8f8f;
+  --cor-c8: #7a7a7a;
+  --cor-c9: #666666;
+  --cor-c10: #525252;
+  --cor-c11: #3d3d3d;
+  --cor-c12: #292929;
+  --cor-c13: #141414;
+
+  --font-1: "Fira Sans", Arial, Helvetica, sans-serif;
+  --font-2: "Playfair Display", "Times New Roman", Times, serif;
+}
